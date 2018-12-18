@@ -1,0 +1,1 @@
+# the message tells that there is a syntax error in line 2, where one of ")" should be replaced by "}"
